@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   # Do not include the C libs in export
   s.public_header_files = 'web3swift/web3swift.h'
 
-  s.dependency 'BigInt', '~> 5.0.0'
+  s.dependency 'BigInt', '~> 4.0.0'
   s.dependency 'secp256k1_ios', '~> 0.1'
 
 end

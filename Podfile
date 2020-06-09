@@ -1,5 +1,5 @@
 def all_pods
-  pod 'BigInt', '5.0.0'
+  pod 'BigInt', '4.0.0'
   pod 'secp256k1_ios', '~> 0.1'
 end
 

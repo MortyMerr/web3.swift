@@ -1,9 +1,9 @@
 PODS:
-  - BigInt (5.0.0)
+  - BigInt (4.0.0)
   - secp256k1_ios (0.1.3)
 
 DEPENDENCIES:
-  - BigInt (= 5.0.0)
+  - BigInt (= 4.0.0)
   - secp256k1_ios (~> 0.1)
 
 SPEC REPOS:
@@ -12,9 +12,9 @@ SPEC REPOS:
     - secp256k1_ios
 
 SPEC CHECKSUMS:
-  BigInt: 74b4d88367b0e819d9f77393549226d36faeb0d8
+  BigInt: 2aad1a9942dc932ec8b84290d2c564a3d76f97ab
   secp256k1_ios: ac9ef04e761f43c58012b28548afa91493761f17
 
-PODFILE CHECKSUM: e1e6d565134c4de80230f3f3b9c35f56b5b97493
+PODFILE CHECKSUM: 1053020ba76867f6c83eb9f53c771c65c8429e26
 
-COCOAPODS: 1.8.4
+COCOAPODS: 1.9.1
